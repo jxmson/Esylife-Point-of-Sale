@@ -1,0 +1,29 @@
+C:\Users\Nthabeleng Jimson\Desktop\Esylife POS\obj\Debug\Esylife POS.csprojAssemblyReference.cache
+C:\Users\Nthabeleng Jimson\Desktop\Esylife POS\obj\Debug\Esylife_POS.frmDashboard.resources
+C:\Users\Nthabeleng Jimson\Desktop\Esylife POS\obj\Debug\Esylife_POS.Properties.Resources.resources
+C:\Users\Nthabeleng Jimson\Desktop\Esylife POS\obj\Debug\Esylife POS.csproj.GenerateResource.cache
+C:\Users\Nthabeleng Jimson\Desktop\Esylife POS\bin\Debug\Esylife POS.exe.config
+C:\Users\Nthabeleng Jimson\Desktop\Esylife POS\bin\Debug\Esylife POS.exe
+C:\Users\Nthabeleng Jimson\Desktop\Esylife POS\bin\Debug\Esylife POS.pdb
+C:\Users\Nthabeleng Jimson\Desktop\Esylife POS\obj\Debug\Esylife POS.exe
+C:\Users\Nthabeleng Jimson\Desktop\Esylife POS\obj\Debug\Esylife POS.pdb
+C:\Users\Nthabeleng Jimson\Desktop\Esylife POS\obj\Debug\Esylife_POS.frmProduct.resources
+C:\Users\Nthabeleng Jimson\Desktop\Esylife POS\obj\Debug\Esylife_POS.frmUserAccount.resources
+C:\Users\Nthabeleng Jimson\Desktop\Esylife POS\obj\Debug\Esylife_POS.frmCurrentUsers.resources
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\bin\Debug\Esylife POS.exe.config
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\bin\Debug\Esylife POS.exe
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\bin\Debug\Esylife POS.pdb
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\obj\Debug\Esylife POS.csprojAssemblyReference.cache
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\obj\Debug\Esylife_POS.frmCurrentUsers.resources
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\obj\Debug\Esylife_POS.frmDashboard.resources
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\obj\Debug\Esylife_POS.frmProduct.resources
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\obj\Debug\Esylife_POS.Properties.Resources.resources
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\obj\Debug\Esylife POS.csproj.GenerateResource.cache
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\obj\Debug\Esylife POS.exe
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\obj\Debug\Esylife POS.pdb
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\obj\Debug\Esylife_POS.frmRole.resources
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\obj\Debug\Esylife_POS.frmAdmin.resources
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\obj\Debug\Esylife_POS.frmAssignBM.resources
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\obj\Debug\Esylife_POS.frmMembers.resources
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\obj\Debug\Esylife_POS.frmUnregisteredMembers.resources
+C:\Users\Nthabeleng Jimson\Desktop\Ongoing Projects\Esylife POS\obj\Debug\Esylife_POS.frmDashboardMembers.resources
